@@ -1,0 +1,2 @@
+### get books route
+GET http://localhost:5000/api/books
